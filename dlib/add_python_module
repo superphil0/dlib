@@ -15,7 +15,7 @@
 
 option(PYTHON3 "Build a Python3 compatible library rather than Python2." OFF)
 
-
+set(Python_ADDITIONAL_VERSIONS 3.4)
 #SET(Boost_USE_STATIC_LIBS OFF)
 #SET(Boost_USE_MULTITHREADED ON)
 #SET(Boost_USE_STATIC_RUNTIME OFF)
